@@ -68,7 +68,7 @@ This project presents hydrological flood frequency analysis and maximum flow mod
 
 The study integrates GIS, Remote Sensing, hydrological statistics, and flood frequency analysis to estimate peak flows, return periods, and flood risk patterns.
 
----
+
 
 ## Study Area
 
@@ -78,7 +78,6 @@ The study integrates GIS, Remote Sensing, hydrological statistics, and flood fre
 
 The watershed is located in Oromia Region, Ethiopia.
 
----
 
 ## Environmental Characteristics
 
@@ -88,7 +87,7 @@ The watershed is located in Oromia Region, Ethiopia.
 
 The watershed consists mainly of Sub-Tropical and Temperate climatic zones.
 
----
+
 
 ### Geology
 
@@ -96,7 +95,7 @@ The watershed consists mainly of Sub-Tropical and Temperate climatic zones.
 
 Major geological formations influencing runoff generation and groundwater interaction.
 
----
+
 
 ### Soil Types
 
@@ -104,7 +103,7 @@ Major geological formations influencing runoff generation and groundwater intera
 
 Spatial distribution of dominant soil groups within the watershed.
 
----
+
 
 ### Land Use / Land Cover
 
@@ -112,7 +111,7 @@ Spatial distribution of dominant soil groups within the watershed.
 
 Land use characteristics affecting infiltration and runoff response.
 
----
+
 
 ### Mean Annual Rainfall Distribution
 
@@ -120,7 +119,7 @@ Land use characteristics affecting infiltration and runoff response.
 
 Spatial variation of precipitation across the watershed.
 
----
+
 
 ## Rainfall Analysis
 
@@ -130,7 +129,7 @@ Spatial variation of precipitation across the watershed.
 
 The watershed shows temporal variability in annual precipitation.
 
----
+
 
 ### Rainfall vs Flood Flow Relationship
 
@@ -138,7 +137,7 @@ The watershed shows temporal variability in annual precipitation.
 
 Relationship between seasonal rainfall and observed flood discharge.
 
----
+
 
 ## Flood Analysis
 
@@ -148,7 +147,7 @@ Relationship between seasonal rainfall and observed flood discharge.
 
 Comparison between seasonal rainfall and maximum flood discharge.
 
----
+
 
 ### Peak Flow Frequency Analysis
 
@@ -163,7 +162,7 @@ Estimated design floods for:
 - 50-year return period
 - 100-year return period
 
----
+
 
 ### Distribution Model Comparison
 
@@ -177,7 +176,7 @@ Comparison of:
 
 for flood frequency estimation.
 
----
+
 
 ### Flood Inundation Analysis
 
@@ -185,7 +184,7 @@ for flood frequency estimation.
 
 Time series analysis of flood inundation extent and temporal trends.
 
----
+
 
 ## Methods
 
@@ -215,7 +214,7 @@ Time series analysis of flood inundation extent and temporal trends.
 - Rainfall trend plots
 - Flood inundation analysis
 
----
+
 
 ## Software
 
@@ -228,7 +227,7 @@ Time series analysis of flood inundation extent and temporal trends.
 - Matplotlib
 - Excel
 
----
+
 
 ## Key Outputs
 
@@ -239,7 +238,7 @@ Time series analysis of flood inundation extent and temporal trends.
 - Return period estimation
 - Flood risk assessment
 
----
+
 
 
 
