@@ -185,3 +185,16 @@ Time series analysis of flood inundation extent and temporal trends.
 Water Resources Engineer | GIS & Remote Sensing Specialist | Data Analyst | Python Developer
 
 Ministry of Water and Energy, Ethiopia
+
+## Full Research Report
+
+📄 [Download Full Thesis](./Final_Thesis_Jifara_June18_2024.pdf)
+
+
+## Key Achievements
+
+- Analyzed 28 years of rainfall and flood data
+- Developed flood frequency models using GEV, Gumbel, and Log-Pearson III
+- Generated watershed and drainage network maps
+- Estimated design flood discharges for multiple return periods
+- Produced flood inundation trend assessments
