@@ -2,73 +2,11 @@
 
 ## Overview
 
-This project presents flood frequency analysis and maximum river discharge modeling using historical hydrological data.
-
-The objective is to estimate design floods and return periods for water resources planning and infrastructure design.
-
-## Study Area
-
-Awash River Basin, Ethiopia
-
-## Objectives
-
-- Analyze annual maximum river discharge
-- Estimate design floods
-- Calculate return periods
-- Support flood risk assessment
-
-## Data
-
-- Annual maximum river flow records
-- Hydrological observations
-- River discharge measurements
-
-## Methods
-
-### Data Processing
-
-- Data cleaning
-- Missing value checking
-- Statistical summaries
-
-### Flood Frequency Analysis
-
-- Gumbel Distribution
-- Return Period Analysis
-- Extreme Value Analysis
-
-### Visualization
-
-- Flood Frequency Curves
-- Return Period Charts
-- Hydrographs
-
-## Tools Used
-
-- Python
-- Pandas
-- NumPy
-- SciPy
-- Matplotlib
-- Excel
-- GIS
-
-## Outputs
-
-- Design flood estimates
-- Flood frequency curves
-- Return period calculations
-- Hydrological analysis report
-
-# River Flood Maximum Flow Modeling
-
-## Overview
-
 This project presents hydrological flood frequency analysis and maximum flow modeling for a watershed in Oromia Region, Ethiopia.
 
 The study integrates GIS, Remote Sensing, hydrological statistics, and flood frequency analysis to estimate peak flows, return periods, and flood risk patterns.
 
-
+---
 
 ## Study Area
 
@@ -78,6 +16,7 @@ The study integrates GIS, Remote Sensing, hydrological statistics, and flood fre
 
 The watershed is located in Oromia Region, Ethiopia.
 
+---
 
 ## Environmental Characteristics
 
@@ -87,7 +26,7 @@ The watershed is located in Oromia Region, Ethiopia.
 
 The watershed consists mainly of Sub-Tropical and Temperate climatic zones.
 
-
+---
 
 ### Geology
 
@@ -95,7 +34,7 @@ The watershed consists mainly of Sub-Tropical and Temperate climatic zones.
 
 Major geological formations influencing runoff generation and groundwater interaction.
 
-
+---
 
 ### Soil Types
 
@@ -103,7 +42,7 @@ Major geological formations influencing runoff generation and groundwater intera
 
 Spatial distribution of dominant soil groups within the watershed.
 
-
+---
 
 ### Land Use / Land Cover
 
@@ -111,7 +50,7 @@ Spatial distribution of dominant soil groups within the watershed.
 
 Land use characteristics affecting infiltration and runoff response.
 
-
+---
 
 ### Mean Annual Rainfall Distribution
 
@@ -119,7 +58,7 @@ Land use characteristics affecting infiltration and runoff response.
 
 Spatial variation of precipitation across the watershed.
 
-
+---
 
 ## Rainfall Analysis
 
@@ -129,7 +68,7 @@ Spatial variation of precipitation across the watershed.
 
 The watershed shows temporal variability in annual precipitation.
 
-
+---
 
 ### Rainfall vs Flood Flow Relationship
 
@@ -137,7 +76,7 @@ The watershed shows temporal variability in annual precipitation.
 
 Relationship between seasonal rainfall and observed flood discharge.
 
-
+---
 
 ## Flood Analysis
 
@@ -147,7 +86,7 @@ Relationship between seasonal rainfall and observed flood discharge.
 
 Comparison between seasonal rainfall and maximum flood discharge.
 
-
+---
 
 ### Peak Flow Frequency Analysis
 
@@ -162,7 +101,7 @@ Estimated design floods for:
 - 50-year return period
 - 100-year return period
 
-
+---
 
 ### Distribution Model Comparison
 
@@ -176,7 +115,7 @@ Comparison of:
 
 for flood frequency estimation.
 
-
+---
 
 ### Flood Inundation Analysis
 
@@ -184,7 +123,7 @@ for flood frequency estimation.
 
 Time series analysis of flood inundation extent and temporal trends.
 
-
+---
 
 ## Methods
 
@@ -214,7 +153,7 @@ Time series analysis of flood inundation extent and temporal trends.
 - Rainfall trend plots
 - Flood inundation analysis
 
-
+---
 
 ## Software
 
@@ -227,7 +166,7 @@ Time series analysis of flood inundation extent and temporal trends.
 - Matplotlib
 - Excel
 
-
+---
 
 ## Key Outputs
 
@@ -238,15 +177,12 @@ Time series analysis of flood inundation extent and temporal trends.
 - Return period estimation
 - Flood risk assessment
 
-
-
-
-
+---
 
 ## Author
 
 Jifara Dabessa
 
-MSc Remote Sensing and Geoinformatics
-BSc Computer Science
-Advanced Diploma Water Resources Engineering
+Water Resources Engineer | GIS & Remote Sensing Specialist | Data Analyst
+
+Ministry of Water and Energy, Ethiopia
